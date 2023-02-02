@@ -31,5 +31,6 @@ class AppServiceProvider extends ServiceProvider
         // View::composer('students.index', function($view) {
         //     $view->with('students', Students::all());
         // });
+
     }
 }

@@ -1,12 +1,11 @@
 @include('partials.header')
    <header class="max-w-lg mx-auto">
       <a href="#">
-         <h1 class="text-4xl font-bold text-white text-center mt-20 animate-bounce"> Student Login</h1>
+         <h1 class="text-4xl font-bold text-white text-center mt-20 animate__animated animate__flipInY animate__delay-1s"> Student Login</h1>
       </a>
    </header>
 
-
-   <section class="h-auto bg-white p-10 mx-40 mt-20 rounded-lg shadow-2xl">
+   <section class="h-auto bg-white p-10 mx-40 mt-10 rounded-lg shadow-2xl">
       <div class=" h-full text-gray-800">
         <div
           class="flex xl:justify-center lg:justify-between justify-center items-center flex-wrap h-full g-6"
